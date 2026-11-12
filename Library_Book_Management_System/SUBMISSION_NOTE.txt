@@ -1,0 +1,6 @@
+Before submission:
+1. Fill in group number, names, enrollment numbers and semester in the report.
+2. Compile and test main.cpp on the lab computer.
+3. Upload main.cpp and README.md to a GitHub repository.
+4. Paste the working GitHub URL in the report and add its QR code.
+5. Add your own screenshots of the program running if required.
